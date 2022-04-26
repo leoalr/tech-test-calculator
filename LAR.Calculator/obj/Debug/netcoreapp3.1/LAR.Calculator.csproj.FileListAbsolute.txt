@@ -1,0 +1,14 @@
+C:\Test\tech-test-calculator\LAR.Calculator\bin\Debug\netcoreapp3.1\LAR.Calculator.exe
+C:\Test\tech-test-calculator\LAR.Calculator\bin\Debug\netcoreapp3.1\LAR.Calculator.deps.json
+C:\Test\tech-test-calculator\LAR.Calculator\bin\Debug\netcoreapp3.1\LAR.Calculator.runtimeconfig.json
+C:\Test\tech-test-calculator\LAR.Calculator\bin\Debug\netcoreapp3.1\LAR.Calculator.runtimeconfig.dev.json
+C:\Test\tech-test-calculator\LAR.Calculator\bin\Debug\netcoreapp3.1\LAR.Calculator.dll
+C:\Test\tech-test-calculator\LAR.Calculator\bin\Debug\netcoreapp3.1\LAR.Calculator.pdb
+C:\Test\tech-test-calculator\LAR.Calculator\obj\Debug\netcoreapp3.1\LAR.Calculator.csproj.AssemblyReference.cache
+C:\Test\tech-test-calculator\LAR.Calculator\obj\Debug\netcoreapp3.1\LAR.Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Test\tech-test-calculator\LAR.Calculator\obj\Debug\netcoreapp3.1\LAR.Calculator.AssemblyInfoInputs.cache
+C:\Test\tech-test-calculator\LAR.Calculator\obj\Debug\netcoreapp3.1\LAR.Calculator.AssemblyInfo.cs
+C:\Test\tech-test-calculator\LAR.Calculator\obj\Debug\netcoreapp3.1\LAR.Calculator.csproj.CoreCompileInputs.cache
+C:\Test\tech-test-calculator\LAR.Calculator\obj\Debug\netcoreapp3.1\LAR.Calculator.dll
+C:\Test\tech-test-calculator\LAR.Calculator\obj\Debug\netcoreapp3.1\LAR.Calculator.pdb
+C:\Test\tech-test-calculator\LAR.Calculator\obj\Debug\netcoreapp3.1\LAR.Calculator.genruntimeconfig.cache
