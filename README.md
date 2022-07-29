@@ -9,7 +9,6 @@
 # Gitlab
 
 - Fork the project on gitlab.
-- Add @dreamdevio ( **Reporter** access ) as a member of your fork. You can easily do that on https://gitlab.com/`your-user`/tech-test-calculator/settings/members.
 - When you start do an empty commit with the message `starting tech test` and when you finish commit with a message `finished tech test`.
 - Commit after every refactor cycle at least.
 - Don't use branches.
